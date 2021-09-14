@@ -1,6 +1,6 @@
 import Foundation
 
-func task5(){
+func task5() {
     let flag = readLine() ?? ""
     let s = readLine() ?? ""
     if (flag == "l"){

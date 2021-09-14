@@ -1,6 +1,6 @@
 import Foundation
 
-func task7(){
+func task7() {
     let n = Int(readLine() ?? "") ?? 0
     var visited: Set<String> = Set<String>()
     if (n > 0) {

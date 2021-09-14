@@ -1,7 +1,7 @@
 import Foundation
 
 
-func task8(){
+func task8() {
     let n = Int(readLine() ?? "") ?? 0
     if n > 0 {
         var friends = [String : String]()

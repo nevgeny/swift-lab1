@@ -1,6 +1,6 @@
 import Foundation
 
-func task6(){
+func task6() {
     func go(n: Int) {
         if (n > 0){
             let x = Int(readLine() ?? "") ?? 0

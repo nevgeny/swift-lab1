@@ -1,6 +1,6 @@
 import Foundation
 
-func solution(){
+func solution() {
     let a = Int(readLine() ?? "") ?? 0
     let b = Int(readLine() ?? "") ?? 0
 

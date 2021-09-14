@@ -7,7 +7,7 @@
 
 import Foundation
 
-func task9(){
+func task9() {
     let n = Int(readLine() ?? "") ?? 0
     var numbers = Array.init(repeating: 0, count: n)
     if (n > 0) {
